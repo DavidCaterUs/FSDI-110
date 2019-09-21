@@ -1,0 +1,11 @@
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/bin/Debug/netcoreapp2.2/lab1.deps.json
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/bin/Debug/netcoreapp2.2/lab1.runtimeconfig.json
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/bin/Debug/netcoreapp2.2/lab1.runtimeconfig.dev.json
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/bin/Debug/netcoreapp2.2/lab1.dll
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/bin/Debug/netcoreapp2.2/lab1.pdb
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/obj/Debug/netcoreapp2.2/lab1.csprojAssemblyReference.cache
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/obj/Debug/netcoreapp2.2/lab1.csproj.CoreCompileInputs.cache
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/obj/Debug/netcoreapp2.2/lab1.AssemblyInfoInputs.cache
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/obj/Debug/netcoreapp2.2/lab1.AssemblyInfo.cs
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/obj/Debug/netcoreapp2.2/lab1.dll
+/home/roberto/Documents/Web Development/FSDI - 110 C Sharp/lab1/obj/Debug/netcoreapp2.2/lab1.pdb
